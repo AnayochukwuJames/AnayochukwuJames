@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-<h1 align="center">Hi there 👋, I'm James Anayochukwu </h1>
-<h3 align="center">A passionate Java fullstack Software Engineer</h3>
+<h1 align="center">Hi there 👋, I'm Anayochukwu James </h1>
+<h3 align="center">I am a passionate Java fullstack Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anayochukwujames&label=Profile%20views&color=0e75b6&style=flat" alt="anayochukwujames" /> </p>
  <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/222670933/original/b6b99ff33becd7057219b42f8dc794e6bad0e543/create-rest-api-website-in-java-spring-boot-angular-as-full-stack-developer.jpg" hight="400" width="700" alt="">
 
