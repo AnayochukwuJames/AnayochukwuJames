@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋, I'm James Anayochukwu </h1>
 <h3 align="center">A passionate Java fullstack Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anayochukwujames&label=Profile%20views&color=0e75b6&style=flat" alt="anayochukwujames" /> </p>
-<!-- <img align= "center" src="https://giphy.com/gifs/salesforce-bear-computer-work-from-home-1GEATImIxEXVR79Dhk" width ="700" alt="coding"> -->
+ <img src="https://xperti.io/blogs/wp-content/uploads/2022/07/Java-Developer-Job-Description.png" alt="">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anayochukwujames" alt="anayochukwujames" /></a> </p>
