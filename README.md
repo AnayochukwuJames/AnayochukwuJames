@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h1 align="center">Hi there 👋, I'm Anayochukwu James </h1>
 <h3 align="center">A passionate Java Software Engineer with a Business Education background. I have honed my web development skills, including HTML, CSS, JavaScript, React, and more. My Agile project management experience, where I have served as a Scrum Master, and proficiency in tools like Jira, GitHub, coupled with my security focus on Spring Security, make me a versatile candidate.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anayochukwujames&label=Profile%20views&color=0e75b6&style=flat" alt="anayochukwujames" /> </p>
