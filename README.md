@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Anayochukwu James </h1>
-<h3 align="center">Passionate Java Software Engineer with a Business Education background, specializing in web development. Proficient in Java, React, JavaScript, Bootstrap, HTML, CSS and more.</h3>
+<h3 align="center">A passionate Java Software Engineer with hands-on experience in Core Java, Spring Boot, REST APIs, SQL, and NoSQL databases. My focus is on writing clean, maintainable code and solving complex problems through functional backend performance. I have a proven track record of contributing to diverse projects, emphasizing robust, scalable solutions that adhere to industry standards. This experience has allowed me to develop and deploy practical solutions, enhancing my skills and expertise. I am always eager to learn new technologies and contribute effectively to team efforts.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anayochukwujames&label=Profile%20views&color=0e75b6&style=flat" alt="anayochukwujames" /> </p>
  <img src="https://terasolunaorg.github.io/guideline/5.2.0.RELEASE/en/_images/RESTExampleSystemConstitution.png" hight="300" width="700" alt="">
 
